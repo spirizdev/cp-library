@@ -31,8 +31,8 @@ It combines three things in one repository:
 ## Quick Start
 
 ```bash
-git clone https://github.com/spirizdev/zylenox.git
-cd zylenox
+git clone https://github.com/spirizdev/cp-library.git
+cd cp-library
 ```
 
 Copy `template.cpp` and `debug.cpp` into your working folder, then compile with the `LOCAL` flag to enable debug output:
