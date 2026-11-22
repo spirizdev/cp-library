@@ -50,7 +50,7 @@ g++ -std=c++17 -O2 template.cpp -o sol
 ## Repository Structure
 
 ```text
-zylenox/
+cp-library/
 ├── template.cpp          # Main contest template
 ├── debug.cpp             # Debug printer (only active with -DLOCAL)
 ├── hash_function.cpp     # Custom hashes for pair / tuple / vector
